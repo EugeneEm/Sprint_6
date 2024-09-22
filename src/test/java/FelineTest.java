@@ -1,8 +1,5 @@
-import com.example.Cat;
 import com.example.Feline;
 import org.junit.Test;
-import org.mockito.Mockito;
-import org.mockito.Spy;
 
 import java.util.List;
 
